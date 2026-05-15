@@ -1,4 +1,4 @@
-# Dev Kumar - Banking Financial Node.js Developer Portfolio
+# Dev Kumar - Node.js Engineering Portfolio
 
 Static dark-theme portfolio tailored for a Banking and Financial Node.js Developer profile, focused on Node.js, TypeScript, REST APIs, AWS serverless architecture, event-driven workflows, debugging, performance optimization, schema validation, AI agents, and CI/CD quality gates.
 
